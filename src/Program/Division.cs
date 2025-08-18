@@ -4,6 +4,6 @@ public class Division
 {
     public static double Divide(int a, int b)
     {
-        return 0; //Incorrect change
+        return (double)a / b;
     }
 }
